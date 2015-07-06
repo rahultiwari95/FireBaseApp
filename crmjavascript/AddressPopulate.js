@@ -89,6 +89,7 @@
     }
 
     /* Set up event listener for place selection */
+    //controlName is for the name of control
     function BindListner(autocomplete, controlName) {
 
         google.maps.event.addListener(autocomplete, 'place_changed', function () {
