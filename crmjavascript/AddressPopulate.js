@@ -46,6 +46,7 @@
          ,false );
       
     }
+    // this is for Billing address
     if (CompositeBillAddrss != null) {
 
        var el = document.getElementById("address2_composite");
