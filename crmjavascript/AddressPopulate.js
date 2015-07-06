@@ -28,8 +28,8 @@
 
     if (CompositeAddrss != null) {
 
-        var el = document.getElementById("address1_composite");
-        el.addEventListener("click", function () {
+        var address1_composite = document.getElementById("address1_composite");
+        address1_composite.addEventListener("click", function () {
 
             var  input = document.getElementById("address1_composite_compositionLinkControl_address1_line1_i");
             input.addEventListener("keypress", function () {
@@ -49,8 +49,8 @@
     // this is for Billing address
     if (CompositeBillAddrss != null) {
 
-       var el = document.getElementById("address2_composite");
-        el.addEventListener("click", function () {
+        var address2_composite = document.getElementById("address2_composite");
+        address2_composite.addEventListener("click", function () {
 
             var input = document.getElementById("address2_composite_compositionLinkControl_address2_line1_i");
             input.addEventListener("keypress", function () {
