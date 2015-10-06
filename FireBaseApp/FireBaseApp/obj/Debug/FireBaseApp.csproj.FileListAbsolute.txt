@@ -1,0 +1,6 @@
+c:\users\rtiwari\documents\visual studio 2013\Projects\FireBaseApp\FireBaseApp\bin\FireBaseApp.dll.config
+c:\users\rtiwari\documents\visual studio 2013\Projects\FireBaseApp\FireBaseApp\bin\FireBaseApp.dll
+c:\users\rtiwari\documents\visual studio 2013\Projects\FireBaseApp\FireBaseApp\bin\FireBaseApp.pdb
+c:\users\rtiwari\documents\visual studio 2013\Projects\FireBaseApp\FireBaseApp\obj\Debug\FireBaseApp.csprojResolveAssemblyReference.cache
+c:\users\rtiwari\documents\visual studio 2013\Projects\FireBaseApp\FireBaseApp\obj\Debug\FireBaseApp.dll
+c:\users\rtiwari\documents\visual studio 2013\Projects\FireBaseApp\FireBaseApp\obj\Debug\FireBaseApp.pdb
